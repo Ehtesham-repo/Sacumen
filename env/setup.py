@@ -15,5 +15,5 @@ setup(
     long_description_content_type='text/markdown',
     author='Ehteshamul Haque',
     author_email='ehtesham.act@gmail.com',
-    url='https://github.com/ehteshamul93/Sacumen',
+    url='https://github.com/Ehtesham-repo/Sacumen',
 )
